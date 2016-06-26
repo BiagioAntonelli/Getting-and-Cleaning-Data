@@ -1,4 +1,4 @@
-#Getting-and-Cleaning-Data-course-Project
+#Getting and Cleaning Data course Project
 
 This repo hosts the code and all the needed file for the "Getting and Cleaning data" course project.
 
