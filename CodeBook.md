@@ -17,7 +17,7 @@ The script run_analysis.R performs the following.
 
 * train, train_l, test, test_l, train_s and test_s contain the data from the downloaded files.
 * merge, merge_l and merge_s merge the previous datasets to further analysis.
-* Features contains the correct names for the merge dataset.
-* Activity variable contains descriptive activities' name.
-* Dataset contains all data merged in a big dataset.
-* Finally, results contains the average of each variable for each activity and each subject.
+* features contains the correct names for the merge dataset.
+* names variable contains descriptive activities' name.
+* dataset contains all data merged in a big dataset.
+* results contains the average of each variable for each activity and each subject.
