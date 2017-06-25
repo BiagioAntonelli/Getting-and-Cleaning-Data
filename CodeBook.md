@@ -1,6 +1,6 @@
-#CodeBook
+# CodeBook
 
-##General info
+## General info
 The script run_analysis.R performs the following.
 
 1. Merges the training and the test sets to create one data set.
@@ -13,7 +13,7 @@ The script run_analysis.R performs the following.
 
 5. From the data set in step 4,creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-##Variables
+## Variables
 
 * train, train_l, test, test_l, train_s and test_s contain the data from the downloaded files.
 * merge, merge_l and merge_s merge the previous datasets to further analysis.
